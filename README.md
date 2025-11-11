@@ -1,4 +1,4 @@
-Industrial Automation and Robotics mod. B \\
+Industrial Automation and Robotics mod. B \n
 PLC and Robotics Homeworks \\
 
 PLC - Cake assembly and decoration system (cake production line) \\
